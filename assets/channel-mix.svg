@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img" aria-label="Grafic modern cu mix de canale de marketing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f2632"/>
+      <stop offset="1" stop-color="#101318"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7dfbd"/>
+      <stop offset="1" stop-color="#f0b35a"/>
+    </linearGradient>
+  </defs>
+  <rect width="980" height="620" rx="46" fill="url(#bg)"/>
+  <circle cx="490" cy="308" r="156" fill="none" stroke="rgba(255,255,255,.11)" stroke-width="52"/>
+  <path d="M490 152a156 156 0 0 1 146 211" fill="none" stroke="#f0b35a" stroke-width="52" stroke-linecap="round"/>
+  <path d="M636 363a156 156 0 0 1-246 82" fill="none" stroke="#72d9ff" stroke-width="52" stroke-linecap="round" opacity=".88"/>
+  <path d="M390 445a156 156 0 0 1-42-216" fill="none" stroke="#9b8cff" stroke-width="52" stroke-linecap="round" opacity=".88"/>
+  <g font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="490" y="292" fill="#b8b1a6" font-size="22" font-weight="700">MIX CANALE</text>
+    <text x="490" y="338" fill="#f4f1ea" font-size="54" font-weight="900">360°</text>
+  </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="110" y="82" width="250" height="96" rx="24" fill="rgba(255,255,255,.075)" stroke="rgba(255,255,255,.14)"/>
+    <circle cx="150" cy="130" r="12" fill="#f0b35a"/>
+    <text x="178" y="126" fill="#f4f1ea" font-size="22" font-weight="900">Paid Media</text>
+    <text x="178" y="154" fill="#b8b1a6" font-size="16">Google, Meta, LinkedIn</text>
+
+    <rect x="628" y="82" width="250" height="96" rx="24" fill="rgba(255,255,255,.075)" stroke="rgba(255,255,255,.14)"/>
+    <circle cx="668" cy="130" r="12" fill="#72d9ff"/>
+    <text x="696" y="126" fill="#f4f1ea" font-size="22" font-weight="900">SEO & Organic</text>
+    <text x="696" y="154" fill="#b8b1a6" font-size="16">Trafic relevant constant</text>
+
+    <rect x="110" y="442" width="250" height="96" rx="24" fill="rgba(255,255,255,.075)" stroke="rgba(255,255,255,.14)"/>
+    <circle cx="150" cy="490" r="12" fill="#9b8cff"/>
+    <text x="178" y="486" fill="#f4f1ea" font-size="22" font-weight="900">Conținut</text>
+    <text x="178" y="514" fill="#b8b1a6" font-size="16">Mesaj, copy, campanii</text>
+
+    <rect x="628" y="442" width="250" height="96" rx="24" fill="rgba(255,255,255,.075)" stroke="rgba(255,255,255,.14)"/>
+    <circle cx="668" cy="490" r="12" fill="#f7dfbd"/>
+    <text x="696" y="486" fill="#f4f1ea" font-size="22" font-weight="900">Conversie</text>
+    <text x="696" y="514" fill="#b8b1a6" font-size="16">Landing pages & funnel</text>
+  </g>
+</svg>
