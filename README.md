@@ -4,6 +4,18 @@
 
 Ambru Marketing ajută afacerile să transforme atenția în leaduri, leadurile în clienți și clienții în creștere repetabilă.
 
+Site-ul este pregătit pentru publicare pe GitHub Pages la:
+
+```txt
+https://monroejack1.github.io/ambru.marketing/
+```
+
+Repository public:
+
+```txt
+https://github.com/MonroeJack1/ambru.marketing
+```
+
 ---
 
 ## Servicii de marketing
@@ -18,7 +30,7 @@ Campanii Meta, Google și LinkedIn gândite pentru leaduri, vânzări și optimi
 
 ### Conținut și copywriting
 
-Mesaje, pagini de vânzare, emailuri, postări și materiale care explică valoarea ofertei tale.
+Mesaje, pagini de vânzare, materiale de campanie și conținut care explică valoarea ofertei.
 
 ### SEO și conținut organic
 
@@ -26,11 +38,11 @@ Structură, keyword research, articole și pagini care atrag trafic relevant pe 
 
 ### Landing pages
 
-Pagini rapide, clare și optimizate pentru conversie, cu tracking corect de la primul click.
+Pagini rapide, clare și optimizate pentru conversie.
 
 ### Raportare și optimizare
 
-Dashboard-uri simple, concluzii utile și decizii lunare bazate pe rezultate, nu pe impresii.
+Dashboard-uri simple, concluzii utile și decizii lunare bazate pe rezultate.
 
 ---
 
@@ -43,29 +55,7 @@ Dashboard-uri simple, concluzii utile și decizii lunare bazate pe rezultate, nu
 
 ---
 
-## Pentru cine este potrivit
-
-Serviciile sunt potrivite pentru:
-
-- servicii profesionale;
-- eCommerce;
-- educație;
-- SaaS;
-- branduri locale cu ambiție națională.
-
----
-
-## Contact
-
-Pentru o discuție despre marketingul businessului tău, scrie la:
-
-**cosminambru@gmail.com**
-
----
-
 ## Fișierele site-ului
-
-Acest repository conține și o variantă completă de site static în HTML/CSS/JS:
 
 - `index.html`
 - `styles.css`
@@ -74,9 +64,3 @@ Acest repository conține și o variantă completă de site static în HTML/CSS/
 - `og-image.svg`
 - `robots.txt`
 - `sitemap.xml`
-
-Pagina publică de repository este:
-
-```txt
-https://github.com/MonroeJack1/ambru.marketing
-```
