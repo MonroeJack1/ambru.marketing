@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g" cx="20%" cy="10%" r="80%">
+      <stop offset="0%" stop-color="#f0b35a" stop-opacity="0.42"/>
+      <stop offset="55%" stop-color="#101318"/>
+      <stop offset="100%" stop-color="#101318"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="72" y="72" width="1056" height="486" rx="36" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.16)"/>
+  <text x="112" y="170" fill="#f0b35a" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="6">AMBRU MARKETING</text>
+  <text x="112" y="310" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="76" font-weight="800">Marketing clar.</text>
+  <text x="112" y="402" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="76" font-weight="800">Creștere măsurabilă.</text>
+  <text x="112" y="492" fill="#b8b1a6" font-family="Arial, sans-serif" font-size="30">Strategie, paid media, conținut, SEO și conversie.</text>
+</svg>
