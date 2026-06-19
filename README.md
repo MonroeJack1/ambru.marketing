@@ -1,65 +1,47 @@
 # Ambru Marketing
 
-**Marketing clar, campanii eficiente și creștere pe care o poți măsura.**
+**Modern marketing systems for strategy, campaigns and measurable growth.**
 
-Ambru Marketing ajută afacerile să transforme atenția în leaduri, leadurile în clienți și clienții în creștere repetabilă.
+The website remains published through GitHub Pages, while the page links point to the final website address:
 
-Site-ul este pregătit pentru publicare pe GitHub Pages la:
+```txt
+https://ambru.marketing/
+```
+
+Current GitHub Pages preview/public hosting address:
 
 ```txt
 https://monroejack1.github.io/ambru.marketing/
 ```
 
-Repository public:
+Repository:
 
 ```txt
 https://github.com/MonroeJack1/ambru.marketing
 ```
 
----
+## Website content
 
-## Servicii de marketing
+The site is written in English and includes:
 
-### Strategie de marketing
+- marketing strategy positioning;
+- paid media services;
+- content and copywriting;
+- SEO and organic growth;
+- landing pages;
+- reporting and optimization;
+- custom SVG graphics and visual marketing diagrams.
 
-Audit, poziționare, segmente de public, ofertă, calendar de campanii și obiective măsurabile.
-
-### Paid media
-
-Campanii Meta, Google și LinkedIn gândite pentru leaduri, vânzări și optimizare rapidă pe baza datelor.
-
-### Conținut și copywriting
-
-Mesaje, pagini de vânzare, materiale de campanie și conținut care explică valoarea ofertei.
-
-### SEO și conținut organic
-
-Structură, keyword research, articole și pagini care atrag trafic relevant pe termen lung.
-
-### Landing pages
-
-Pagini rapide, clare și optimizate pentru conversie.
-
-### Raportare și optimizare
-
-Dashboard-uri simple, concluzii utile și decizii lunare bazate pe rezultate.
-
----
-
-## Cum lucrăm
-
-1. **Diagnostic** - analizăm publicul, oferta, canalele, funnel-ul și datele existente.
-2. **Plan** - definim mesajele, campaniile, bugetele, KPI-urile și calendarul de execuție.
-3. **Execuție** - lansăm rapid, testăm ipoteze și menținem direcția strategică.
-4. **Optimizare** - citim datele, eliminăm risipa și creștem ce funcționează.
-
----
-
-## Fișierele site-ului
+## Main files
 
 - `index.html`
 - `styles.css`
 - `script.js`
+- `assets/marketing-dashboard.svg`
+- `assets/growth-system.svg`
+- `assets/channel-mix.svg`
+- `assets/strategy-map.svg`
+- `assets/creative-campaign.svg`
 - `favicon.svg`
 - `og-image.svg`
 - `robots.txt`
