@@ -2,6 +2,12 @@
 
 Site static one-page pentru domeniul `ambru.marketing`.
 
+Publicare GitHub Pages pregătită pentru adresa publică:
+
+```txt
+https://monroejack1.github.io/ambru.marketing/
+```
+
 ## Fișiere principale
 
 - `index.html` - structura paginii și conținutul în limba română
