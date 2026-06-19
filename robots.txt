@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://monroejack1.github.io/ambru.marketing/sitemap.xml
+Sitemap: https://ambru.marketing/sitemap.xml
